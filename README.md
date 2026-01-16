@@ -41,7 +41,7 @@ Code is organized into logical methods and classes
 # 🗂 Project Structure
 Bank-Account-Management-System/
 │
-├── src/
+├── Task 2/
 │   └── BankSystem.java
 │
 ├── accounts.dat
